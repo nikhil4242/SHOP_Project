@@ -1,0 +1,21 @@
+[
+  
+  {
+    "EmailID": "Nikhil123@gmail.com",
+    "CakeDescription": {
+      "CakeID": 1,
+      "Name": "Choclate",
+      "Flavour": "Choclate_by_Death",
+      "Price_per_KG": "1000"
+    }
+  },
+  {
+    "EmailID": "Deep@gmail.com",
+    "CakeDescription": {
+      "CakeID": 2,
+      "Name": "Vanila",
+      "Flavour": "Vanila_by_Death",
+      "Price_per_KG": "1000"
+    }
+  }
+]

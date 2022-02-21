@@ -1,0 +1,26 @@
+[ 
+  {
+    "ID": 2,
+    "Name": "Aniesh Vishnu",
+    "Adress": "",
+    "PhoneNO": "7004344958",
+    "Age": "21",
+    "EmailId": "aniesh@gmail.com"
+  },
+  {
+    "ID": 3,
+    "Name": "Nikhil",
+    "Adress": "ranchi",
+    "PhoneNO": "7004344956",
+    "Age": "21",
+    "EmailId": "Nikhil@gmail.com"
+  },
+  {
+    "ID": 4,
+    "Name": "Deep",
+    "Adress": "Andal",
+    "PhoneNO": "9004344956",
+    "Age": "31",
+    "EmailId": "Deep@gmail.com"
+  }
+]
